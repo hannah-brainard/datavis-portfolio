@@ -1,16 +1,33 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Collectively, U.S. museums hold more than $50 billion in endowment funds (Upstart CoLab, 2022)   With growing public attention to ethical considerations around.  Beyond making a statement of values, responsible investing can be one of the most impactful ways for museums to take social and environmental action. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The idea for this project centers around understanding the scale of endowment funds, and   Ideally, this information will help museum administrators be more informed about the 
 
-Text here...
+Institutions are not generally open about the specifics of their investment portfolio. Through this project, I want to use existing data about the scale of museum endowments, paired with accessible data about trends in sustainable and socially responsible investing. To support the narrative, I will use case studies from institutions who have transitioned their investments to socially responsible funds successfully.
+
+### Project Structure
+
+**1. Intro.** “Divest” has seemingly become a politically charged term, but it really just refers to an organization aligning their portfolio with their values. 
+
+**2. Role of Endowments.** And how they’re invested. 
+
+**3. Set the scale.** In the United States alone, museums hold more than an estimated $50 billion in endowments - trailing behind education and foundations. Chart 1: Scale of these endowments, by industry.
+
+**4. Top 10.** The top museum endowments in the U.S. the Metropolitan Museum of Art and J. Paul Getty Trust. Chart 2: 5 Largest U.S. Museum endowments - pull out “museums” from the previous chart and visualize top museums in a parallel format. Use a line to show average endowment size, for comparison. 
+
+**5. Potential Impact.** Using the average, scale what this would mean in terms of an environmental or social development - for example, number of windmills. Chart 3: Picto
+
+**6. Why not?** Considering the fiduciary responsibility of the board, there is often hesitation around changing the funding strategy. A study by Deutsche Bank shows that investors feel ESG investments are generally at pace, and even outperforming, standard investments. Chart 4: Stacked bar shows “
+
+**7. Success Stories.** However, many are divesting from fossil fuels all together, and committing to socially responsible investments. Examples from the industry include:  
+
+  -  Example 1: The Field Museum - Chicago
+  -  Example 2: American Museum of Natural History
+  -  Example 3: Museum of Modern Art
+
+**8. Call to Action.** Socially responsible investments can 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -18,17 +35,21 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
+> 
+I will acquire data about individual museums from their financial statements to craft a data table, to input into Tableau.  and source larger trends from publicly available data sets. 
 
-Text here...
+- Endowment Data: Guidestar - Repository of IRS Form 990 data for U.S. nonprofit organizations. I'll use this information to collect specific information about the size of the top museum endowments.  https://www.guidestar.org/ 
+- ESG Investment Performance:   https://www-statista-com.us1.proxy.openathens.net/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/
+- General Industry Trends: “Culture Capital: Museums and Investing.” https://upstartco-lab.org/wp-content/uploads/2022/06/Cultural-Capital-Museums-and-Investing-1.pdf 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|   Guidestar   |   https://www.guidestar.org/   |        Repository of IRS Form 990 data for U.S. nonprofit organizations. I'll use this information to collect specific information about the size of the top museum endowments.     |
+|   Upstart CoLab   |  https://upstartco-lab.org/wp-content/uploads/2022/06/Cultural-Capital-Museums-and-Investing-1.pdf   |   Study of museum investments will be used to highlight known cultural industry trends in socially responsible investing. This report has interesting and relevant figures, though does not provide raw data for further analysis.     |
+|  ESG Investment Performance -     |     |      This study showed the relationship in ESG investment performance for both the U.S. and Europe.       |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
@@ -36,7 +57,9 @@ Text here...
 Text here...
 
 ## References
-_List any references you used here._
+“Culture Capital: Museums and Investing.” Upstart CoLab. June 2022. https://upstartco-lab.org/wp-content/uploads/2022/06/Cultural-Capital-Museums-and-Investing-1.pdf
+
+Deutsche Bank. "Performance of ESG investments compared to non-ESG investments according to corporate issuers and investors in the Americas and Europe in 2021 ." Chart. November 22, 2021. Statista. https://www.statista.com/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._

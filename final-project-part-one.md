@@ -30,11 +30,11 @@ Institutions are not generally open about the specifics of their investment port
 **8. Call to Action.** Learn how your museum is investing endowment funds, and advocate to leadership for transitioning to a more sustainable strategy.  
 
 ## Initial sketches
-<img style="float: right;" src="IMG_0059.jpg" width="300">
+<img src="IMG_0059.jpg" width="400">
 
-<img style="float: right;" src="IMG_0060.jpg" width="300">
+<img src="IMG_0060.jpg" width="400">
 
-<img style="float: right;" src="IMG_0061.jpg" width="300">
+<img src="IMG_0061.jpg" width="400">
 
 # The data
 

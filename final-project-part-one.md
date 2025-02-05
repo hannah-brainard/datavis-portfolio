@@ -46,9 +46,8 @@ I will acquire data about individual museums from their financial statements to 
 |  ESG Investment Performance -  Deutsche Bank   | https://www-statista-com.us1.proxy.openathens.net/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/    |      This study showed the relationship in ESG investment performance relative to traditional invesments for both the U.S. and Europe.       |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+With the data above, visualizations will primarily be done in Tableau. More graphic elements may be created in Canva, to support other information. 
 
-Text here...
 
 ## References
 Ali, Aran. “WealthRanked: The World’s Top 50 Endowment Funds.” Visual Capitalist. May 16, 2023. https://www.visualcapitalist.com/worlds-top-endowment-funds/ 

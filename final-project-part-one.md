@@ -9,13 +9,13 @@ Institutions are not generally open about the specifics of their investment port
 
 ### Project Structure
 
-**1. Intro.** “Divest” has seemingly become a politically charged term, but it really just refers to an organization aligning their portfolio with their values. 
+**1. Intro.** Divest” has seemingly become a charged term, but it’s really an opportunity for museums to align their financial strategy with their values. One of the most prominent ways museums can do this is through investment of endowment funds. 
 
 **2. Role of Endowments.**  Endowments permanently designate contributed funds for investment, which help fund operations through interest awarded. 
 
-**3. Set the scale.** In the United States alone, museums hold more than an estimated $50 billion in endowments - trailing behind education and foundations. Chart 1: Scale of these endowments, by industry.
+**3. Set the scale.** In the United States alone, museums hold more than an estimated $50 billion in endowments - trailing behind education and foundations (Ali, 2023). Chart 1: Scale of these endowments, by industry.
 
-**4. Top 10.** The top museum endowments in the U.S. the Metropolitan Museum of Art and J. Paul Getty Trust. Chart 2: 5 Largest U.S. Museum endowments - pull out “museums” from the previous chart and visualize top museums in a parallel format. Use a line to show average endowment size, for comparison. 
+**4. Top 10.** TThe top museum endowments in the U.S. the Metropolitan Museum of Art and J. Paul Getty Trust (Ali, 2023). Chart 2: 5 Largest U.S. Museum endowments - pull out “museums” from the previous chart and visualize top museums in a parallel format.
 
 **5. Potential Impact.**  Using the average, scale what this would mean in terms of an environmental or social development - for example, acreage of wind energy or associated energy generated. Chart 3: Pictograph showing quantity of potential impact, relative to average endowment size. 
 
@@ -35,15 +35,9 @@ Institutions are not generally open about the specifics of their investment port
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
-> 
-I will acquire data about individual museums from their financial statements to craft a data table, to input into Tableau.  and source larger trends from publicly available data sets. 
 
-- Endowment Data: Guidestar - Repository of IRS Form 990 data for U.S. nonprofit organizations. I'll use this information to collect specific information about the size of the top museum endowments.  https://www.guidestar.org/ 
-- ESG Investment Performance:   https://www-statista-com.us1.proxy.openathens.net/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/
-- General Industry Trends: “Culture Capital: Museums and Investing.” https://upstartco-lab.org/wp-content/uploads/2022/06/Cultural-Capital-Museums-and-Investing-1.pdf 
+I will acquire data about individual museums from their financial statements to craft a data table, to input into Tableau. To look at larger trends, I'm using data from Deutsche Bank, but limited to the United States. This section will likely be supplemented with additional data, as I continue to find relevant publicly available data.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -63,5 +57,3 @@ Ali, Aran. “WealthRanked: The World’s Top 50 Endowment Funds.” Visual Capi
 
 Deutsche Bank. "Performance of ESG investments compared to non-ESG investments according to corporate issuers and investors in the Americas and Europe in 2021 ." Chart. November 22, 2021. Statista. https://www.statista.com/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._

@@ -30,9 +30,11 @@ Institutions are not generally open about the specifics of their investment port
 **8. Call to Action.** Learn how your museum is investing endowment funds, and advocate to leadership for transitioning to a more sustainable strategy.  
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img style="float: right;" src="IMG_0059.jpg" width="300">
 
-Text here...
+<img style="float: right;" src="IMG_0060.jpg" width="300">
+
+<img style="float: right;" src="IMG_0061.jpg" width="300">
 
 # The data
 

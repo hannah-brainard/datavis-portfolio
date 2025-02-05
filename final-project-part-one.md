@@ -3,13 +3,13 @@
 # Outline
 Collectively, U.S. museums hold more than $60 billion in endowment funds (Upstart CoLab, 2022). With growing public attention to ethical considerations around funding, museums are taking a deeper look at who and what issues their revenue is connected to. Beyond making a statement of values, responsible investing can be one of the most impactful ways for museums to take social and environmental action. 
 
-The idea for this project centers around understanding the scale of endowment funds, and   Ideally, this information will help museum administrators be more informed about the 
+The idea for this project centers around understanding the scale of endowment funds - not just as an asset to a museum, but as a tool to support mission-aligned work more widely.  Ideally, this information will make the concept more accessible and actionable for general museum administrators - who may then seek out more information about their organizations portfolio and advocate for change. 
 
-Institutions are not generally open about the specifics of their investment portfolio. Through this project, I want to use existing data about the scale of museum endowments, paired with accessible data about trends in sustainable and socially responsible investing. To support the narrative, I will use case studies from institutions who have transitioned their investments to socially responsible funds successfully.
+Institutions are not generally open about the specifics of their investment portfolio. Through this project, I want to use existing data about the scale of museum endowments, paired with relevant generalized data about trends in sustainable and socially responsible investing. To support the narrative, I will use case studies from institutions who have already moved their investments to socially responsible funds successfully.
 
 ### Project Structure
 
-**1. Intro.** Divest” has seemingly become a charged term, but it’s really an opportunity for museums to align their financial strategy with their values. One of the most prominent ways museums can do this is through investment of endowment funds. 
+**1. Intro.** "Divest” has seemingly become a charged term, but it’s really an opportunity for museums to align their financial strategy with their values. One of the most prominent ways museums can do this is through investment of endowment funds. 
 
 **2. Role of Endowments.**  Endowments permanently designate contributed funds for investment, which help fund operations through interest awarded. 
 
@@ -46,7 +46,7 @@ I will acquire data about individual museums from their financial statements to 
 |  ESG Investment Performance -  Deutsche Bank   | https://www-statista-com.us1.proxy.openathens.net/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/    |      This study showed the relationship in ESG investment performance relative to traditional invesments for both the U.S. and Europe.       |
 
 # Method and medium
-With the data above, visualizations will primarily be done in Tableau. More graphic elements may be created in Canva, to support other information. 
+My next step is to pull relavant data from IRS forms through Guidestar and create a spreadsheet. With this data, as well as publicly-accessibly datasets above, a majority of visualizations will crafted in Tableau. More graphic elements, like a 'pictograph,' will be very limited, and may be created in Canva. I'll continue to craft and refine narrative elements of the data story, before ultimately assembling the final product on Shorthand. 
 
 
 ## References

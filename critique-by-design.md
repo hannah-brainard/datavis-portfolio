@@ -10,21 +10,22 @@ Figure 1 shows global average levels of abundance for Carbon Dioxide (CO2), Nitr
 
 <img src="NOAA-GHG Abundance.png" width="800">
 
-**Figure 1:** 
+**Figure 1.** 
 
 **Source:** The NOAA Annual Greenhouse Gas Index (AGGI). National Oceanic and Atmospheric Administration. 2024. https://gml.noaa.gov/aggi/aggi.html
 
 <img src="Radiative Forcing.png" width="800">
 
-**Figure 2:**
+**Figure 2.**
 
 **Source:** The NOAA Annual Greenhouse Gas Index (AGGI). National Oceanic and Atmospheric Administration. 2024. https://gml.noaa.gov/aggi/aggi.html 
 
 
 ## Step two: the critique
-Note: I conducted my initial critique with a focus on Figure 1.  Using their data set, the chart I ultimatley sketched shared more similar elements with Figure 2 on the NOAA webpage, so I have included both for the purposes of this analysis. 
+_Note: I conducted my initial critique with a focus on Figure 1.  Using their data set, the chart I ultimatley sketched shared more similar elements with Figure 2 on the NOAA webpage, so I have included both for the purposes of this analysis._ 
 
 **Figure 1** 
+
 While Figure 1 is useful, it tells a fairly limited story - it takes a bit of digging to see exactly what the charts are showing. While you see that it’s relating to a level of these Greenhouses Gases, but the context is not immediately clear. You may easily think it is showing annual emissions for a specific country or region, when it's actually showing global levels of abundant gas in the atmosphere. 
 
 From these charts, it’s easy to see that, in general, Greenhouse Gas levels have increased over time. However, it is very difficult to compare trends between gases, as each has an extremely different scale (parts per million vs. billion vs. trillion). However, by displaying them together in this, this is likely to mislead the viewer to believe that these gases exist at a similar level. And further, they may assume that similar levels of the gas may have similar levels of risk - an assumptions that could prove dangerous in making policy decisions.
@@ -32,6 +33,7 @@ From these charts, it’s easy to see that, in general, Greenhouse Gas levels ha
 In terms of color, there are a number of opportunities to enhance the visualization.  The same color is used across the four charts to represent different gases, which could also lead to confusion in interpreting that chart. Aesthetically, this visualization does not effectively attract or engage more attention. could be improved by reducing alignment points.
 
 **Figure 2**
+
 Figure 2 works to address some of these issues. First, gases are made proportional by multiplying the abundance levels by a warming factor to measure how much it actuall Essentially, this factor representing its warming potential. This makes it much easier to draw comparisons between the gases. However, this visualization also has a number of design considerations that make it challenging to interpret. Using a secondary y-axis, it's very challeneging for the average viewer to interpret what this data means in both planes. Excessive use of color draws eye movement across the graphic, distracting from the key ideas. Additionally, the graphic has an undefined reference line, which inaccurately goes all the way to the x-axis. While this is slightly more truthful in its presentation of information, it has significant opportunities to enhance perceptability, aesthetics, and engagement. 
 
 
@@ -40,7 +42,7 @@ This material was designed to “enhance the connection between scientists and s
 
 ## Step three: Sketch a solution
 
-<img src="NOAA-GHG Abundance.png" width="800">
+<img src="Sketch 1.png" width="800">
 
 **Visualization by Author.** 
 
@@ -74,7 +76,7 @@ A couple key themes emerged from this feedback - first, that there is opportunit
 
 ## Step five: build the solution
 
-<img src="Dashboard 1e.png" width="800">
+<img src="Dashboard 1.png" width="800">
 
 **Visualization by Author.** 
 

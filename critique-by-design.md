@@ -9,16 +9,25 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+
+<img src="NOAA-GHG Abundance.png" width="800">
+
+*Source:* The NOAA Annual Greenhouse Gas Index (AGGI). National Oceanic and Atmospheric Administration. 2024. https://gml.noaa.gov/aggi/aggi.html 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+The data visualization is useful, though only in telling a fairly limited story. It takes a little bit of digging to see exactly what the charts are showing - you see that it’s a level of these Greenhouses gases, but it’s not immediately clear if this is showing emissions for a specific country or region, levels in the atmosphere, etc. 
+
+A clear title describing what the audience should take away would improve this. After reading the description, I discovered that it shows global greenhouse gas abundance for Carbon Dioxide, Nitrous Oxide, Methane, and other gases. From these charts, it’s easy to see in general, they each increase over time. However, it is extremely difficult to compare trends between gases, as each has an extremely different scale (parts per million vs. billion vs. trillion). If each chart was isolated, this scaling may be useful to make data points clear and visible and wouldn’t cause much concern. However, by displaying them together in this, this is likely to mislead the viewer to believe that these gases exist at a similar level. In terms of color, there are a number of opportunities to enhance the visualization.  the same color is used across the four charts to represent different gases, which could also lead to confusion in interpreting that chart. Aesthetically, this visualization does not effectively attract or engage more attention. could be improved by reducing alignment points. 
+
 
 ## Step three: Sketch a solution
 
-## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+
+
+
+## Step four: Test the solution
 
 Questions to ask (modify these for your own interviews): 
 

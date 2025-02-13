@@ -9,11 +9,14 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+This visualization was selected from [MakeoverMonday's](https://makeovermonday.co.uk/) weekly series, which encourages people to hone their data visualization skills through redesign. This particular piece was of interest to me, due to its 
 
 <img src="NOAA-GHG Abundance.png" width="800">
 
+<img src="Radiative Forcing.png" width="800">
+
 *Source:* The NOAA Annual Greenhouse Gas Index (AGGI). National Oceanic and Atmospheric Administration. 2024. https://gml.noaa.gov/aggi/aggi.html 
+
 
 ## Step two: the critique
 The data visualization is useful, though only in telling a fairly limited story. It takes a little bit of digging to see exactly what the charts are showing - you see that it’s a level of these Greenhouses gases, but it’s not immediately clear if this is showing emissions for a specific country or region, levels in the atmosphere, etc. 

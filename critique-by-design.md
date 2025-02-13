@@ -75,6 +75,7 @@ A couple key themes emerged from this feedback - first, that there is opportunit
 - Use a descriptive title to quickly convey the meaning of the chart
 
 ## Step five: build the solution
+Incorporating the feedback above, I created the following visualization. This stacked area chart eliminates visual clutter, focusing on key takeaways with color, text, and structure. 
 
 <img src="Dashboard 1.png" width="800">
 

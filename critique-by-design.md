@@ -23,15 +23,13 @@ A clear title describing what the audience should take away would improve this. 
 
 ## Step three: Sketch a solution
 
-
+<img src="NOAA-GHG Abundance.png" width="800">
 
 
 
 ## Step four: Test the solution
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
+Questions for critique:
 
 - Can you describe to me what this is telling you?
 
@@ -55,6 +53,13 @@ _Don't identify or share personally identifiable information (PII) about the peo
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+A couple key themes emerged from this feedback. First, that there is opportunity to more clearly articlulate one key story from this visualization. While respondants saw value in this type of chart in showing proportion and changes over time, it was difficult to get a clear understanding of how the differences in proportion change. This is a known risk of using stacked area graphs, but there are additional design elements that might better.
+
+- Use of a highlight color to call attention
+- Group categories to reduce number of
+- Better label axes to
+- Enhance title 
 
 ## Step five: build the solution
 

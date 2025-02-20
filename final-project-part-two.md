@@ -22,6 +22,20 @@
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+>
+> More information on resources, alternatives, good funds... a place where you can look at what is currently performing well
+> Where to find things, what are they called
+> More examples of museums that have done this already,
+> Sponsor money...
+> Talk about some who have done socially responsible investing, but maybe not totally divested.
+> Balance - area currently lacking, but there is hope and growth that you can be a part of.
+> Engaging visual displays, that brought you in. Felt positive, not doom and gloom. Huge upside that we can explore.
+> Felt called to action.
+> Flesh out more about - beyond just indexes, whats in there? Idea of clean energy projects, etc.
+> Aspiration - redwood fund. Distinction between ESG vs. impact. Beware of greenwashing.
+> Flow was good. Beginning set it up well.
+> Visually appealing, images good.
+ 
 
 Text here!
 

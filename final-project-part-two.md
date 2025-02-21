@@ -55,14 +55,14 @@ Ali, Aran. “Ranked: The World’s Top 50 Endowment Funds.” Visual Capitalist
 
 American Alliance of Museums. “Sustainable Investing Part 3: Case Study of the Phipps Conservatory and Botanical Gardens,” January 14, 2020. https://www.aam-us.org/2020/01/14/sustainable-investing-part-3-case-study-of-the-phipps-conservatory-and-botanical-gardens/.
 
-Carbon Underground 200 | Fossil Free Funds. “Carbon Underground 200 | Fossil Free Funds.” Accessed February 18, 2025. https://fossilfreefunds.org/carbon-underground-200.
+Carbon Underground 200 Fossil Free Funds. “Carbon Underground 200 Fossil Free Funds.” Accessed February 18, 2025. https://fossilfreefunds.org/carbon-underground-200.
 
-“ESG Investments versus Non-ESG Investments 2021 | Statista.” Accessed February 13, 2025. https://www.statista.com/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/.
+“ESG Investments versus Non-ESG Investments 2021, Statista.” Accessed February 13, 2025. https://www.statista.com/statistics/1296691/esg-investments-versus-non-esg-investment-in-americas-and-europe/.
 
-Index funds | Fossil Free Funds. “Index Funds | Fossil Free Funds.” Accessed February 15, 2025. https://fossilfreefunds.org/index-funds.
+Index funds - Fossil Free Funds. “Index Funds -Fossil Free Funds.” Accessed February 15, 2025. https://fossilfreefunds.org/index-funds.
 
 Parking, Directions &, and (415) 379-8000. “An Update on Fossil Fuel Divestment - California Academy of Sciences.” Accessed February 16, 2025. https://www.calacademy.org/blogs/from-our-director/an-update-on-fossil-fuel-divestment.
 
-“S&P 500: ESG vs Normal Index Comparison 2024 | Statista.” Accessed February 20, 2025. https://www.statista.com/statistics/1269643/s-p-500-esg-normal-index-comparison/.
+“S&P 500: ESG vs Normal Index Comparison 2024, Statista.” Accessed February 20, 2025. https://www.statista.com/statistics/1269643/s-p-500-esg-normal-index-comparison/.
 
 Upstart Co-Lab. “Cultural Institutions Investing for Values and Mission.” Accessed February 13, 2025. https://upstartco-lab.org/cultural-institutions/.

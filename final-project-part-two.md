@@ -25,7 +25,7 @@ The target audience for this story is a general museum professional, interested 
 With the above goals, I talked with two museum professionals, working in different disciplines relating to climate. I also talked with current Master of Public Policy Management student, who would have a strong understanding of environment and investing, but less about museums. 
  
 
-| Questions               | Interview 1 (Public Policy Master's Student) | Interview 2 (Museum - Climate Professional)| Interview 3 (Museum - Youth Climate Action Professional) |
+| Questions               | Interview 1 (Public Policy Master's Student, ~20s) | Interview 2 (Museum - Climate Professional, ~30s)| Interview 3 (Museum - Youth Climate Action Professional, ~30s) |
 |-------------------------|--------------------------------|-------------|-------------|
 | Does this provide the right amount of context to understand the topic?  | Overall, right level of context. Didn't seem to overexplain the topic.| Could use more specific details about types of funds - beyond indexes, what projects does this support? Additional detail about ESG vs. socially responsible investments. Data visualizations were compelling. | Could use additional information about aternatives and where to find them.      |
 | Does the content follow a logical flow? |  Follows good flow - with narrative and visuals. |      Order made sense.       |      Opening section hooked them and set up story well       |
@@ -62,5 +62,7 @@ Carbon Underground 200 | Fossil Free Funds. “Carbon Underground 200 | Fossil F
 Index funds | Fossil Free Funds. “Index Funds | Fossil Free Funds.” Accessed February 15, 2025. https://fossilfreefunds.org/index-funds.
 
 Parking, Directions &, and (415) 379-8000. “An Update on Fossil Fuel Divestment - California Academy of Sciences.” Accessed February 16, 2025. https://www.calacademy.org/blogs/from-our-director/an-update-on-fossil-fuel-divestment.
+
+“S&P 500: ESG vs Normal Index Comparison 2024 | Statista.” Accessed February 20, 2025. https://www.statista.com/statistics/1269643/s-p-500-esg-normal-index-comparison/.
 
 Upstart Co-Lab. “Cultural Institutions Investing for Values and Mission.” Accessed February 13, 2025. https://upstartco-lab.org/cultural-institutions/.

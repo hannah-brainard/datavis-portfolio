@@ -59,9 +59,6 @@ So, I challenge you to start the conversation. 
 Share this information with your information with your board and senior leadership. Learn more about where your endowment funds are going, and advocate for change at your institution."
 
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
-
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
@@ -71,4 +68,6 @@ Overall, this process provided a really great opportunitiy to dive into a topic 
 
 Though I had a strong sense of the colors and overall aesthetic I wanted to use in thie piece, I think it would have beneficial to take some additional time to create a mood board. This could have saved time. Additionally
 
+## References
+> All references are listed on 
 

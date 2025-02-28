@@ -69,5 +69,5 @@ Overall, this process provided a really great opportunitiy to dive into a topic 
 Though I had a strong sense of the colors and overall aesthetic I wanted to use in thie piece, I think it would have beneficial to take some additional time to create a mood board. This could have saved time. Additionally
 
 ## References
-> All references are listed on 
+See all references on Shorthand. 
 

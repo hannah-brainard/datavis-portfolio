@@ -8,7 +8,9 @@ See my final data story on Shorthand:
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Theres is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing - as well. One key theme that emerged through my user interviews was to provide additional context for some of these terms 0- and particularly, to further distinguish between "socially responsible investing" and "ESG investments" and how they relate to one another. I did this primarily through additional narrative description 
+Theres is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing - as well. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "socially responsible investing" and "ESG investments" and how they relate to one another. I did this primarily through additional narrative description....
+
+With this, I also wanted to paint a clearer picture of impact. This could create an emotional appeal to the piece, and more generally strengthen a case for support within an organization. In practice, this can be very tricky to quanitify - with so much variation, you can't definitively say that investing $1 million into a growing solar energy company would result in "X" acres of new solar development or "X" kWh of energy. Toward this goal, I instead opted to 
 
 Additionally, there was some confusion about the data point that "1/3 of museums reported allocating their endowment portfolio to socially responsible investments." I found myself needing to verbally explain that this did not mean that 1/3 of endowmentfunds were invested in socially responsible funds - rather, that 1/3 of museums reported allocation any portion of their endowment 
 
@@ -27,22 +29,46 @@ By nature of these types of networks, professionals would also likley span museu
 
 To better understand how my potential audience might interact with the piece, I did user research in Phase 2 with two museum professionals, currently working both for a museum and in support of a climate-focused professional network. These interviews really helped my guage the level of information that would be appropriate to be meaningful for a varied audience - without overexplaining ideas that would be familiar. 
 
+As stated above, 
+
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+Color: 
+
+Visualization: 
+
+Flow:
+
+## Final presentation script
+
+"As museum professionals, we’re paying increasing attention to the role our institutions play in addressing global climate change - and one of the most overlooked areas of impact is responsible investment of endowment funds. 
+
+To set the scale: museums in the U.S. collectively hold an estimated $64 billion in their endowments, with 7 individual institutions holding more than $1 billion. These funds are restricted in perpetuity for the purpose of investment. 
+
+However, only about ⅓ of museums report allocating any portion of their endowment portfolio to socially responsible funds.
+
+Most commonly, this is through index funds that meet certain sustainability criteria - like ESG standards. 
+
+Many institutions hesitate to make change out of concern that this could negatively impact their financial position. But - its worth noting that since 2021, S&P 500’s ESG Index has consistently outpaced its standard index. 
+
+And - a number of museums successfully made the switch. 
+
+So, I challenge you to start the conversation. 
+
+Share this information with your information with your board and senior leadership. Learn more about where your endowment funds are going, and advocate for change at your institution."
+
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
-
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+Overall, this process provided a really great opportunitiy to dive into a topic that was interesting to me. Last summer, I interned with the Phipps Conservatory and Botanical Gardens' Climate Toolkit Network. As part of this project, I 
+
+
+
+Though I had a strong sense of the colors and overall aesthetic I wanted to use in thie piece, I think it would have beneficial to take some additional time to create a mood board. This could have saved time. Additionally
 
 

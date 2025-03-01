@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
 Collectively, U.S. museums hold more than $60 billion in endowment funds (Upstart CoLab, 2022). With growing public attention to ethical considerations around funding, museums are taking a deeper look at who and what issues their revenue is connected to. Beyond making a statement of values, responsible investing can be one of the most impactful ways for museums to take social and environmental action. 

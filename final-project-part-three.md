@@ -4,7 +4,7 @@
  See my final data story on Shorthand: [https://preview.shorthand.com/QJknJoMJ4nzXc1wG ](https://carnegiemellon.shorthandstories.com/museumsinvestingreenfuture/index.html)
 
 ## Changes made since Part II
-Thereis a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "ESG investments" and "impact investing" and how they relate to one another. I did this primarily through additional narrative description, as well as an additional visualization showing top ESG companies.
+There is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "ESG investments" and "impact investing" and how they relate to one another. I did this primarily through additional narrative description, as well as an additional visualization showing top ESG companies.
  
 Additionally, there was some confusion about the data point that "1/3 of museums reported allocating their endowment portfolio to socially responsible investments." I found myself needing to verbally explain that this did not mean that 1/3 of endowment funds were invested in socially responsible funds - rather, that 1/3 of museums reported allocation of any portion of their endowment funds. The updated verbiage and visualization seems to better communicate this point.
 

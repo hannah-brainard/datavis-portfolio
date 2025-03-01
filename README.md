@@ -23,7 +23,7 @@ See examples of my work, linked below.
 Inspired by [MakeoverMonday’s](https://makeovermonday.co.uk/) weekly series, I tried my hand at redesigning a National Oceanic and Atmospheric Adminstration (NOAA) chart about abundant levels of Greenhouse Gases in the atmosphere. [See the final product.](critique-by-design)
 
 ## Final project
-How can museums invest their endowments in socially responsible funds? I explore this question in the data story. See the progression from idea --> final product in Parts I - III below. 
+How can museums invest their endowments in socially responsible funds? I explore this question in the data story. See the progression from idea to final product in Parts I - III below. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)

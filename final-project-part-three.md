@@ -1,4 +1,4 @@
-| [home page](https://hannah-brainard.github.io/datavis-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) |
+| [home page](https://hannah-brainard.github.io/datavis-portfolio/) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) |
 
 # The final data story
  See my final data story on Shorthand: [https://preview.shorthand.com/QJknJoMJ4nzXc1wG ](https://carnegiemellon.shorthandstories.com/museumsinvestingreenfuture/index.html)

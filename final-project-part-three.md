@@ -8,10 +8,8 @@ See my final data story on Shorthand:
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Theres is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing - as well. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "socially responsible investing" and "ESG investments" and how they relate to one another. I did this primarily through additional narrative description....
-
-With this, I also wanted to paint a clearer picture of impact. This could create an emotional appeal to the piece, and more generally strengthen a case for support within an organization. In practice, this can be very tricky to quanitify - with so much variation, you can't definitively say that investing $1 million into a growing solar energy company would result in "X" acres of new solar development or "X" kWh of energy. Toward this goal, I instead opted to 
-
+Theres is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing - as well. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "ESG investments" and "impact investing" and how they relate to one another. I did this through primarily through additional narrative description, as well as an additional visualization showing top ESG companies. This helps distinguish between funds 
+ 
 Additionally, there was some confusion about the data point that "1/3 of museums reported allocating their endowment portfolio to socially responsible investments." I found myself needing to verbally explain that this did not mean that 1/3 of endowmentfunds were invested in socially responsible funds - rather, that 1/3 of museums reported allocation any portion of their endowment 
 
 I added one  additional case studies at the conclusion, because this was an area the target audience members in my user researched seemed really drawn to. Users stated that they were interested in knowing more about institutions that have started to make socially responsible investments, but maybe haven't fully divested fossil fuels. 
@@ -23,7 +21,7 @@ Another area of focus was in the call to action. I had previously struggled with
 
 The audience I had in mind while craftng this story is a general museum professional with an interest in pursuing environmental sustainability in their institution.
 
-In museums, and arts and cultural organizations more generally, there is growing awareness about their institutional role in addressing global climate change - both in the operations of their facilities and the subject of their programming. A number of climate-focused professional networks and conferences have been establishied to provide museum professionals with resources to make changes within their institutions - such as The Climate Toolkit Network, Gallery Climate Coalition, Green Museum Summit, Ki Culture, among others. Representatives that interface with these networks can vary, and involvment is determined as much by individual interest as it is by specific job requirements.
+In museums, and cultural organizations more generally, there is growing awareness about their institutional role in addressing global climate change - both in the operations of their facilities and the subject of their programming. A number of climate-focused professional networks and conferences have been establishied to provide museum professionals with resources to make changes within their institutions - such as (The Climate Toolkit Network)[https://climatetoolkit.org/?], Gallery Climate Coalition, Green Museum Summit, Ki Culture, among others. Representatives that interface with these networks can vary, and involvment is determined as much by individual interest as it is by specific job requirements.
 
 Museums rarely have a dedicated sustainability professional on staff, and more often, a variety of staff members working in different roles across the institution form a "green team" or informally volunteer to tackle sustainability initiatives.  With this in mind, the kinds of audiences that might interact with a piece like this through channels like  or similar would likely have a strong understanding of general museum work and an interest in better understanding opportunities to enhance sustainability initiatives. This wouldn't necessarily be an executive, it could be someone in education, curation, fundraising, marketing, visitor services, facility management, or a number of other departments.
 
@@ -36,13 +34,21 @@ As stated above,
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Color: I used one shade of green throughout the presentation for text, data visualizations, and images drew out some of the same colors. Admittedly, I'm always hesitant to default to green when talking about climate, as it can be overused and a bit deceptive. However, this really seemed to resonante with the audience. Throughout user research, this 
+**Color:** I used one shade of green throughout the presentation for text, data visualizations, and images drew out some of the same colors. Admittedly, I'm always hesitant to default to green when talking about climate, as it can be overused and a bit deceptive. However, this really seemed to resonante with the audience. Throughout user research, this was quickly recognized to 
 
-Visualizations: I opted to 
+*Visualizations:** I opted to use fairly simple chart types, with generally one key focus per chart. Combined with color and a descriptive title, users seemed to understand the key point quickly. 
 
-Accessibility and Clarity: 
+Overall, Shorthand made it fairly simple to 
 
-## Final presentation script
+
+# Final thoughts
+Overall, this process provided a really great opportunitiy to dive into a topic that was interesting to me. Last summer, I interned with the Climate Toolkit Network at Phipps Conservatory and Botanical Gardens. As part of my internship, I started to analyze trends in how organizations were pledging to various climate goals. I was surprised to see that divesting fossil fuels/socially responsible invesment had the lowest commitment rate of any climate goal - even lower than goals relating to major capital improvement. When I shared this finding with organizational leadership, they chuckled and shared that they weren't surprised at all. While I initially thought it sounded like an easy switch, they described just how difficult it can be to convince a board of directors to change investment strategy when the financial stakes are so high. This made me want to learn more about the structural barriers to socially responsible investing and how to make the case for support to organizational leaders. Having this specific audience and goal in mind really helped in crafting this data story.
+
+With this in mind, I had hoped to paint a clearer picture of impact and quanitfy specific environmental outcomes. In practice, this can be very tricky - with so many variable factors, you can't definitively say that investing $1 million in a solar energy company would result in "X" acres of new solar development or "X" kWh of energy. To do this sucessfully would have required a level of financial accumen far exceeding my skillset. Instead, I focused on better describing the types of funds or projects that could be considered.
+
+Ultimately, this issue continues to be extremely complex and there are infinitely many ways that an organization could approach it. Outside of mandatory tax documentation, museums are very private about their endowment funds. With more time and available data, I would want to take a deeper dive about specific opportunities and outcomes. Overall, I think this data story has successfully "scratched the surface," and I feel optimistic about the response it had from my target audience. 
+
+## Final presentation script: 
 
 "As museum professionals, we’re paying increasing attention to the role our institutions play in addressing global climate change - and one of the most overlooked areas of impact is responsible investment of endowment funds. 
 
@@ -60,13 +66,6 @@ So, I challenge you to start the conversation. 
 
 Share this information with your information with your board and senior leadership. Learn more about where your endowment funds are going, and advocate for change at your institution."
 
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Overall, this process provided a really great opportunitiy to dive into a topic that was interesting to me. Last summer, I interned with the Phipps Conservatory and Botanical Gardens' Climate Toolkit Network. As part of my internship, I started to analyze trends in how organizations were pledging to various climate goals. I was surprised to see that divesting fossil fuels and socially responsible invesment had the lowest commitment rate of any climate goal - even lower than goals relating to major capital improvement. When I shared this finding with organizational leadership, they chuckled and shared that they weren't surprised at all. While I initially thought it sounded like an easy switch, it can be extremely difficult to convince a board of directors to change investment strategy when the stakes are so high for potential financial loss. This really made me want to learn more about the structural barriers to socially responsible investing and how to make the case for support to organizational leaders. Having this specific audience and goal in mind really helped in crafting this data story.
-
-Ultimately, this issue continues to be extremely complex and there are infinitely many ways that an organization could approach it. Outside of mandatory tax documentation, museums are very private about their endowment funds. With more time and available data, I would want to take a deeper dive about specific opportunities and better quanitfy the potential environmental impact. Overall, I think this data story has successfully "scratched the surface," and I feel optimistic about the response it had from my target audience. 
 
 
 ## References

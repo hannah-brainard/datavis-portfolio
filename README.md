@@ -19,7 +19,7 @@ Through this course, I hope to stengthen my data visualization and narrative bui
 # PORTFOLIO
 See examples of my work, linked below. 
 
-## [Critique by Design](critique-by-design) 
+## Critique by Design
 Inspired by [MakeoverMonday’s](https://makeovermonday.co.uk/) weekly series, I tried my hand at redesigning a National Oceanic and Atmospheric Adminstration (NOAA) chart about abundant levels of Greenhouse Gases in the atmosphere. [See the final product.](critique-by-design)
 
 ## Final project

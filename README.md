@@ -1,4 +1,4 @@
-[Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+[visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # ABOUT ME
 My name is Hannah Brainard (she/her), and I'm a second-year Master of Arts Management student at Carnegie Mellon University's Heinz College of Public Policy and Information Systems. 
@@ -19,21 +19,18 @@ Through this course, I hope to stengthen my data visualization and narrative bui
 # PORTFOLIO
 See examples of my work, linked below. 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-
-## Assignment 3&4: [Critique by Design](critique-by-design) 
+## [Critique by Design](critique-by-design) 
+Inspired by [MakeoverMonday’s](https://makeovermonday.co.uk/) weekly series, I tried my hand at redesigning a National Oceanic and Atmospheric Adminstration (NOAA) chart about abundant levels of Greenhouse Gases in the atmosphere. [See the final product.](critique-by-design)
 
 ## Final project
-*Check back for updates.* 
+How can museums invest their endowments in socially responsible funds? I explore this question in the data story. See the progression from idea --> final product in Parts I - III below. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
+[Final Product](https://carnegiemellon.shorthandstories.com/museumsinvestingreenfuture/index.html)
 
 
 - Web page URL: https://hannah-brainard.github.io/datavis-portfolio/
 - This repository: https://github.com/hannah-brainard/datavis-portfolio
-
-## References
-_List any references you used here._
 
 

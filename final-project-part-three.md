@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
- See my final data story on Shorthand: https://preview.shorthand.com/QJknJoMJ4nzXc1wG 
+ See my final data story on Shorthand: [https://preview.shorthand.com/QJknJoMJ4nzXc1wG ](https://carnegiemellon.shorthandstories.com/museumsinvestingreenfuture/index.html)
 
 ## Changes made since Part II
 Theres is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "ESG investments" and "impact investing" and how they relate to one another. I did this through primarily through additional narrative description, as well as an additional visualization showing top ESG companies. This helps distinguish between funds 

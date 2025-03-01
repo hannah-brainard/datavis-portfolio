@@ -14,7 +14,7 @@ With this, I also wanted to paint a clearer picture of impact. This could create
 
 Additionally, there was some confusion about the data point that "1/3 of museums reported allocating their endowment portfolio to socially responsible investments." I found myself needing to verbally explain that this did not mean that 1/3 of endowmentfunds were invested in socially responsible funds - rather, that 1/3 of museums reported allocation any portion of their endowment 
 
-I added two additional case studies at the conclusion, because this was an area the audience seemed really drawn to. Users stated that they were interested in knowing more about institutions that have started to make socially responsible investments, but maybe haven't fully divested fossil fuels. 
+I added one  additional case studies at the conclusion, because this was an area the target audience members in my user researched seemed really drawn to. Users stated that they were interested in knowing more about institutions that have started to make socially responsible investments, but maybe haven't fully divested fossil fuels. 
 
 Another area of focus was in the call to action. I had previously struggled with focusing this message on the audience, and making is realistic to implement. As I returned to this section to update after Part II, I wanted to keep this section concise, so it could be memorable, with lower barriers to implement. However, I also wanted to make sure the audience had the right amount of information to take action. With the audience in mind (as detailed below), I focused this on section on what realistic next steps would be for a typical museum professional: learning more about their institution and sharing this institutional leadership. Not every individual in this audience would be the right one to start contacting their financial advisor or evaluating funds against sustainability criteria. However, anyone in this potential audience could "start the conversation" - asking questions internally or sharing what they learned with leadership or another colleague. From there, the individual could tailor their own level of involvement.  I added a button at the bottom, allowing the viewer to share the presentation via email in just a couple of clicks. 
 
@@ -36,11 +36,11 @@ As stated above,
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Color: I used one shade of green throughout the presentation for text, data visualizations,  with varying opacity. 
+Color: I used one shade of green throughout the presentation for text, data visualizations, and images drew out some of the same colors. Admittedly, I'm always hesitant to default to green when talking about climate, as it can be overused and a bit deceptive. However, this really seemed to resonante with the audience. Throughout user research, this 
 
-Visualization: 
+Visualizations: I opted to 
 
-Flow:
+Accessibility and Clarity: 
 
 ## Final presentation script
 
@@ -64,11 +64,10 @@ Share this information with your information with your board and senior leadersh
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Overall, this process provided a really great opportunitiy to dive into a topic that was interesting to me. Last summer, I interned with the Phipps Conservatory and Botanical Gardens' Climate Toolkit Network. As part of this project, I 
+Overall, this process provided a really great opportunitiy to dive into a topic that was interesting to me. Last summer, I interned with the Phipps Conservatory and Botanical Gardens' Climate Toolkit Network. As part of my internship, I started to analyze trends in how organizations were pledging to various climate goals. I was surprised to see that divesting fossil fuels and socially responsible invesment had the lowest commitment rate of any climate goal - even lower than goals relating to major capital improvement. When I shared this finding with organizational leadership, they chuckled and shared that they weren't surprised at all. While I initially thought it sounded like an easy switch, it can be extremely difficult to convince a board of directors to change investment strategy when the stakes are so high for potential financial loss. This really made me want to learn more about the structural barriers to socially responsible investing and how to make the case for support to organizational leaders. Having this specific audience and goal in mind really helped in crafting this data story.
 
+Ultimately, this issue continues to be extremely complex and there are infinitely many ways that an organization could approach it. Outside of mandatory tax documentation, museums are very private about their endowment funds. With more time and available data, I would want to take a deeper dive about specific opportunities and better quanitfy the potential environmental impact. Overall, I think this data story has successfully "scratched the surface," and I feel optimistic about the response it had from my target audience. 
 
-
-Though I had a strong sense of the colors and overall aesthetic I wanted to use in thie piece, I think it would have beneficial to take some additional time to create a mood board. This could have saved time. Additionally
 
 ## References
 See all references on Shorthand. 

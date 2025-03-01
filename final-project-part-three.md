@@ -3,7 +3,7 @@
 # The final data story
  See my final data story on Shorthand: https://preview.shorthand.com/QJknJoMJ4nzXc1wG 
 
-# Changes made since Part II
+## Changes made since Part II
 Theres is a lot of different language used around socially responsible investing - impact investing, ethical investing, green investing. One key theme that emerged through my user interviews was to provide additional context for some of these terms - and particularly, to further distinguish between "ESG investments" and "impact investing" and how they relate to one another. I did this through primarily through additional narrative description, as well as an additional visualization showing top ESG companies. This helps distinguish between funds 
  
 Additionally, there was some confusion about the data point that "1/3 of museums reported allocating their endowment portfolio to socially responsible investments." I found myself needing to verbally explain that this did not mean that 1/3 of endowmentfunds were invested in socially responsible funds - rather, that 1/3 of museums reported allocation any portion of their endowment funds. The updated verbiage and visualization seems to better communicate this point.
@@ -35,7 +35,7 @@ Two areas of design I want to highlight in my final design are color and use of 
 Overall, Shorthand made it simple to pull this content together cohesively. I had a couple small obstacles using the tool, inlcuding minor limitations in customizing built-in elements and impropering sizing of irregularly shaped embedded charts. 
 
 
-# Final thoughts
+## Final thoughts
 Overall, this process provided a really great opportunitiy to dive into a topic that was interesting to me. Last summer, I interned with the Climate Toolkit Network at Phipps Conservatory and Botanical Gardens. As part of my internship, I started to analyze trends in how organizations were pledging to various climate goals. I was surprised to see that divesting fossil fuels/socially responsible invesment had the lowest commitment rate of any climate goal - even lower than goals relating to major capital improvement. When I shared this finding with organizational leadership, they chuckled and shared that they weren't surprised at all. While I initially thought it sounded like an easy switch, they described just how difficult it can be to convince a board of directors to change investment strategy when the financial stakes are so high. This made me want to learn more about the structural barriers to socially responsible investing and how to make the case for support to organizational leaders. Having this specific audience and goal in mind really helped in crafting this data story.
 
 With this in mind, I had hoped to paint a clearer picture of impact and quanitfy specific environmental outcomes. In practice, this can be very tricky - with so many variable factors, you can't definitively say that investing $1 million in a solar energy company would result in "X" acres of new solar development or "X" kWh of energy. To do this sucessfully would have required a level of financial accumen far exceeding my skillset. Instead, I focused on better describing the types of funds or projects that could be considered.

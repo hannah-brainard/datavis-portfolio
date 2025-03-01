@@ -1,4 +1,4 @@
-| [home page](https://hannah-brainard.github.io/datavis-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project III](final-project-part-three) |
+| [home page](https://hannah-brainard.github.io/datavis-portfolio/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 
